@@ -1,0 +1,6 @@
+[submodule "jlox"]
+	path = jlox
+	url = https://github.com/Utecha/jlox.git
+[submodule "clox"]
+	path = clox
+	url = https://github.com/Utecha/clox.git
