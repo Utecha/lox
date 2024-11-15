@@ -7,3 +7,6 @@
 [submodule "lox-c3"]
 	path = lox-c3
 	url = https://github.com/Utecha/lox-c3.git
+[submodule "plox"]
+	path = plox
+	url = https://github.com/Utecha/plox.git
